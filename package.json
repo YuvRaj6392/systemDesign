@@ -1,0 +1,12 @@
+{
+  "name": "systemdesign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m \"added changes\" && git push origin HEAD"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
